@@ -111,7 +111,7 @@ Zip_NUM_VISIT.sort(key=lambda tup: tup[1], reverse=True)
 
 #out_feat3 = open('/Users/uma2103/Insight22/output_test/hours.txt','w')
 for i in range(3):
-    print Zip_NUM_VISIT[i]
+    #print Zip_NUM_VISIT[i]
     print>>out_feat3,Zip_NUM_VISIT[i]
     
 
