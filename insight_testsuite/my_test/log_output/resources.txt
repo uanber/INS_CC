@@ -1,0 +1,10 @@
+/statistics/1995/Jun/Jun95_reverse_domains.html,  1646592
+/images/ksclogo-medium.gif,  1572864
+/shuttle/missions/sts-53/movies/sts-53-launch.mpg,  1269716
+/images/ksclogosmall.gif,  1269716
+/images/KSC-logosmall.gif,  1269716
+/,  1269716
+/history/mercury/mercury.html,  1269716
+/elv/TITAN/mars3.jpg,  1269716
+/history/apollo/apollo.html,  1269716
+/shuttle/technology/sts-newsref/stsref-toc.html,  1269716
